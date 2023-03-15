@@ -1,13 +1,13 @@
 # JobQuest
-####
+#### JobQuest is a mobile application that provides a job marketplace to employers and job seekers.
 
-##OUR TEAM
--M.A.T.M.WANSHATHILAKA [TharakaMadushankaWanshathilaka](https://github.com/TharakaMadushankaWanshathilaka)
--[U.N.H.MADHUWANTHA](https://github.com/IT21168390)
--[G.K.G.SARANGA](https://github.com/IT21168212)
--[S.M.K.THATHSARA](https://github.com/IT21219566)
+## OUR TEAM
+- M.A.T.M.WANSHATHILAKA [TharakaMadushankaWanshathilaka](https://github.com/TharakaMadushankaWanshathilaka)
+- U.N.H.MADHUWANTHA     [IT21168390](https://github.com/IT21168390)
+- G.K.G.SARANGA         [IT21168212](https://github.com/IT21168212)
+- S.M.K.THATHSARA       [IT21219566](https://github.com/IT21219566)
 
-##Technologies
+## Tools & Technologies
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="45" height="45"/>
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="45" height="45"/>
